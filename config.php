@@ -10,8 +10,8 @@ function config($key = '')
     $config = [
         'name' => 'Simple PHP Website',
         'nav_menu' => [
-            '' => 'Home',
-            'content/about-us.php' => 'About Us',
+            '' => 'SOURABH',
+            'content/about-us.php' => 'Carrer',
             'content/products.php' => 'Products',
             'content/contact.php' => 'Contact',
         ],
